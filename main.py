@@ -1,5 +1,5 @@
 """
-Ini adalah demo project peratma dengan Python
+Ini adalah demo project pertama dengan Python
 """
 
 print("Hello world!")
